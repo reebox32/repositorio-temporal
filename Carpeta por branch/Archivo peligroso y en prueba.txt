@@ -1,0 +1,3 @@
+Soy un archivo generado en una rama alterna, si me fusionan será un caos.
+
+Más cambios antes del Merge
