@@ -1,0 +1,1 @@
+Voy a hacer un commit desde la parte correspondiente a los archivos integrados al fusionar la rama AgregandoPeligro pero ya estaríamos usando la rama master por lo cual desde master seguirían las modificaciones de esta rama... creo que no es prolijo dado que seguro va a dar lio... lo pruebo hago commit y push :D
